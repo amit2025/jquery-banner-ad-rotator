@@ -1,7 +1,7 @@
 jQuery Rotating Banner Ad README
 
-This script utilizes jQuery to build a rotating banner ad in slideshow format complete with linking abilities.
-The banner is built from an unordered list in the HTML in this structure:
+This script utilizes jQuery to build a rotating banner ad in slideshow format complete with linking
+abilities. The banner is built from an unordered list in the HTML in this structure:
 
 <ul class="gallery">
      <li><a href="link1"><img src="image1.jpg" alt="Image 1" /></a></li>
@@ -11,4 +11,5 @@ The banner is built from an unordered list in the HTML in this structure:
 </ul>
 
 When the script is called for the above example, it will generate a banner with 4 pagination links, 
-4 images shown one at a time complete with captions pulled from "alt", link1 and link2 will open in a blank window.
+4 images shown one at a time complete with captions pulled from "alt", link1 and link2 will open 
+in a blank window.
