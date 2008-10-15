@@ -10,4 +10,5 @@ The banner is built from an unordered list in the HTML in this structure:
      <li><a href="link4" target="_blank"><img src="image4.jpg" alt="Image 4" /></a></li>
 </ul>
 
-When the script is called for the above example, it will generate a banner with 4 pagination links, 4 images shown one at a time complete with captions pulled from "alt", link1 and link2 will open in a blank window.
+When the script is called for the above example, it will generate a banner with 4 pagination links, 
+4 images shown one at a time complete with captions pulled from "alt", link1 and link2 will open in a blank window.
